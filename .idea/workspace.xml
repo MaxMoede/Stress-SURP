@@ -1,153 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a109ed5e-297a-4e59-9e03-3ae8dbccf703" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/apache-project-data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/apache-project-data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/apache-project-data-1.0-SNAPSHOT-jar-with-dependencies.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/apache-project-data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/apache-project-data-1.0-SNAPSHOT.jar.original" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/Settings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/Issue$Type.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/Issue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/Project.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/Revision.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/bugdatabase/BugDatabase$BugDatabaseType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/bugdatabase/BugDatabase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/bugdatabase/BugSave.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/bugdatabase/BugzillaBugDatabase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/bugdatabase/JiraBugDatabase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/repository/GitRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/repository/Repository$RepoType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/repository/Repository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/data/repository/SvnRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/BugDatabaseMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/Filter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/JacksonConfiguration.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/LanguageMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/MetricDescription$Group.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/MetricDescription.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/MetricField$DataType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/MetricField.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/Metrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/MetricsManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/NumberMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/ProjectMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/Snapshot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/metrics/VcsMetrics.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/util/CollectionUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/util/FileUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/util/StringUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/FieldsController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/FilterSearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/MainViewController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/SampleContainer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/SearchController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/SelectiveSample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/SnapshotController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/edu/calpoly/apacheprojectdata/web/WebInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/ApacheProjectDataTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/data/ProjectTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/data/bugdatabase/BugDatabaseTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/data/repository/RepositoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/metrics/BugDatabaseMetricsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/metrics/ProjectMetricsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/metrics/VcsMetricsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/util/CollectionUtilTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/test-classes/edu/calpoly/apacheprojectdata/util/StringUtilTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apache-project-data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/STRESS-master.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/apache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_ProjectMetrics.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_ProjectMetrics_fieldAvailability.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_ProjectMetrics_languages.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_ProjectMetrics_libraries.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_ProjectMetrics_numericFields.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_Snapshot.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL/sql/apache_projects_hibernate_sequence.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/apache-project-data.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/Issue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/Project.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/Revision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/bugdatabase/BugDatabase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/bugdatabase/BugSave.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/bugdatabase/BugzillaBugDatabase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/bugdatabase/JiraBugDatabase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/repository/GitRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/repository/Repository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/data/repository/SvnRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/BugDatabaseMetrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/Filter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/JacksonConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/LanguageMetrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/MetricDescription.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/MetricField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/Metrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/MetricsManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/NumberMetrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/ProjectMetrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/Snapshot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/metrics/VcsMetrics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/util/CollectionUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/util/FileUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/util/StringUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/FieldsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/FilterSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/MainViewController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SampleContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SearchController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SelectiveSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SnapshotController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/WebInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/resources/languages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/resources/select.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/resources/static/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/resources/static/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/main/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/ApacheProjectDataTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/data/ProjectTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/data/bugdatabase/BugDatabaseTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/data/repository/RepositoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/metrics/BugDatabaseMetricsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/metrics/ProjectMetricsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/metrics/VcsMetricsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/util/CollectionUtilTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/src/test/java/edu/calpoly/apacheprojectdata/util/StringUtilTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/languages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/select.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/static/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/static/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/classes/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.data.bugdatabase.BugDatabaseTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.data.repository.RepositoryTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.metrics.BugDatabaseMetricsTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.metrics.ProjectMetricsTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.metrics.VcsMetricsTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.util.CollectionUtilTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/TEST-edu.calpoly.apacheprojectdata.util.StringUtilTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.data.bugdatabase.BugDatabaseTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.data.repository.RepositoryTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.metrics.BugDatabaseMetricsTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.metrics.ProjectMetricsTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.metrics.VcsMetricsTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.util.CollectionUtilTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRC/target/surefire-reports/edu.calpoly.apacheprojectdata.util.StringUtilTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apache.properties" />
-    </list>
+    <list default="true" id="a109ed5e-297a-4e59-9e03-3ae8dbccf703" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -178,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+            <state relative-caret-position="212">
+              <caret line="123" column="41" lean-forward="false" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -208,11 +62,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebInterface.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/WebInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/util/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -499,6 +373,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SRC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calpoly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apacheprojectdata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metrics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="STRESS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="STRESS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="INSTALL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -754,7 +670,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -853,14 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/MainViewController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -879,8 +787,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/WebInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/web/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/src/main/java/edu/calpoly/apacheprojectdata/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="123" column="41" lean-forward="false" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
           <folding />
         </state>
       </provider>
